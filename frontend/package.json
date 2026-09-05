@@ -1,0 +1,7 @@
+{
+  "name": "evidence-behavior-lab-frontend",
+  "private": true,
+  "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "lint": "eslint ."},
+  "dependencies": {"next": "15.4.6", "react": "19.1.1", "react-dom": "19.1.1", "recharts": "2.15.1"},
+  "devDependencies": {"@types/node": "22.15.21", "@types/react": "19.1.10", "@types/react-dom": "19.1.7", "eslint": "9.32.0", "eslint-config-next": "15.4.6", "typescript": "5.8.3"}
+}
